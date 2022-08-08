@@ -1,0 +1,33 @@
+Web Development Project Ideas:
+
+1) Sudoku / Snake & Ladder / Tic-Tac-toe
+(React)
+
+2*) Movies Catalogue using OMDB(api)
+For Api: Rapid Api
+Programmings help: Free Code camp
+(React)
+
+OR
+
+Cryptocurrency tracker
+(Brian Design - Youtube Video tutorial)
+
+(we have to design only the front-end here using an API).
+
+
+
+3) Portfolio Website
+
+Youtube Reference: Lama Dev
+
+4) Chrome Extensions
+
+5*) E-Commerce Website
+Youtube Recommendation: Lama Dev
+(MongoDB, Express, React & Node.js)
+(Intermidiate)
+
+6*) Community Application (user-generated Content)
+Instagram, social-media Websites
+(Advanced Level Projects)
